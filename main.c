@@ -6,7 +6,7 @@
 
   	b = a - 1;
 
-  	print("%d", b);
+  	print("Ana %d", b);
 
   
   	return 0;
